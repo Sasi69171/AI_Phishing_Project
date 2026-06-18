@@ -1,0 +1,10 @@
+phishing detection
+
+
+for running in visual code
+C:\Users\USER> f:
+PS F:\> cd NPR
+PS F:\NPR> cd AI_Phishing_Project
+PS F:\NPR\AI_Phishing_Project> python app.py
+
+https://secure-bankaccount.netlify.app/
