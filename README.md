@@ -35,14 +35,6 @@ Project Overview
 
 The AI Phishing Detection Web App analyzes website URLs and predicts whether a website is phishing or legitimate. The system uses a trained machine learning model to classify URLs and provide users with security-related insights.
 
- Experience Gained
-
-* Improved Machine Learning skills
-* Learned Data Preprocessing techniques
-* Enhanced Cybersecurity knowledge
-* Strengthened Python programming skills
-* Gained experience in model training and evaluation
-* Improved problem-solving abilities
 
 Screenshots
 
